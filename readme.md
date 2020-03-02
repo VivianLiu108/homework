@@ -110,3 +110,25 @@ Bell Labs II至VI模型使用的系統中，每個十進制數字編碼的不是
 所有的貝爾實驗室中繼計算機都以十進制算法工作。
 一個特殊的電路檢查發現每個十進制數字有兩個，只有兩個繼電器通電。
 另一個電路檢查了每個組中只有一個繼電器的接通狀態，這防止了兩個單獨的錯誤相互抵消，儘管某些異常組合可能無法檢測到。
+
+Relay computers繼電器式計算機
+the first logical schemas with diodes 二極管第一邏輯架構
+point transistor 點電晶體
+first fully transistor computer ( TRADIC ) 第一台電晶體電腦
+first modem 第一台數據機
+single-chip 32-bit processor 單晶片32位元處理器
+operating system UNIX UNIX作業系統
+research mathematician 數學研究家
+relays binary adder 繼電器二進位加法器
+full-size 全尺寸
+Complex Number Computer 複數計算機
+Multiposition 多位置
+Subtraction 減法
+prefix 前綴
+remote access 遠端存取
+interpolated function values 插值函數值
+formula tape 紙膠帶
+paper tape 紙帶
+Ballistic Computer 彈道計算機
+Error Detector 錯誤檢測器
+Circuits 電路
